@@ -14,11 +14,11 @@ int main()
 
     Student student[5];
 
-    student[0] = {1, "Jessy", "Computer Science", 20};
-    student[1] = {2, "Chua", "Information Technology", 19};
-    student[2] = {3, "Bob", "Business Management", 21};
-    student[3] = {4, "Alice", "Mathematics", 20};
-    student[4] = {5, "Charlie", "Chemistry", 22};
+    student[0] = {24006291, "Jessy", "Computer Science", 20};
+    student[1] = {24006292, "Chua", "Information Technology", 19};
+    student[2] = {24006293, "Bob", "Business Management", 21};
+    student[3] = {24006294, "Alice", "Chemical Engineering", 20};
+    student[4] = {24006295, "Charlie", "Petroleum Engineering", 22};
 
     cout << "===== STUDENT RECORDS =====" << endl;
     for (int i = 0; i < 5; i++)
@@ -54,6 +54,7 @@ int main()
         cout << "Name: " << student[studIndex].studName << endl;
         cout << "Course: " << student[studIndex].studCourse << endl;
         cout << "Age: " << student[studIndex].age << endl;
+        cout << endl;
     }
     else
     {
