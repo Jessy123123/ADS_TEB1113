@@ -8,7 +8,8 @@
 
 | DATE | LAB-TASKS |
 |------|-----------|
-| 26/05/29 | [Task 01 – Student Record Management (Struct, Linear Search, Update)](https://github.com/Jessy123123/ADS_TEB1113/blob/main/26_05_29-Task1/lab_task_1.cpp) |
+| 26/05/29 | https://github.com/Jessy123123/ADS_TEB1113/blob/main/26_05_29-Lab1 |
+| 26/06/05 | https://github.com/Jessy123123/ADS_TEB1113/blob/main/26_06_05-Lab2 |
 
 ---
 
